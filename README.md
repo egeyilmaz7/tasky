@@ -1,4 +1,4 @@
-# 📝 Tasky – A Fun CLI To-Do App (Rust)
+# 📝 Tasky
 
 Tasky is a small, lightweight command-line to-do manager written in Rust.
 
